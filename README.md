@@ -1,7 +1,7 @@
 <h1 align="center"> Inflex Music Bot <\> </h1>
 
 <p align="center">
-  <img src="https://graph.org/file/9d75bfb77e17b80b3da5b.png" alt="Inflex Music Logo" width="640" height="360">
+  <img src="https://graph.org/file/781273d0b035ab552883d.jpg" alt="Inflex Music Logo" width="640" height="360">
 </p>
 
 <p align="center">
